@@ -8,3 +8,4 @@ Prática de Angular
 
 - **Commit 2:** Introduction, Create a Project;
 - **Commit 3:** 1 The Hero Editor;
+- **Commit 4:** 2 Display a List;
