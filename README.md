@@ -6,4 +6,5 @@ Prática de Angular
 
 ## Commits seguindo os passos do Tutorial
 
--**Commit 2:** Introduction, Create a Project;
+- **Commit 2:** Introduction, Create a Project;
+- **Commit 3:** 1 The Hero Editor;
