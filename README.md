@@ -11,3 +11,4 @@ Prática de Angular
 - **Commit 4:** 2 Display a List;
 - **Commit 5:** 3 Create a Feature Component;
 - **Commit 6:** 4 Add Services;
+- **Commit 7:** 5 Add Navigation;
