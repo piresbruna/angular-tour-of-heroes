@@ -10,9 +10,16 @@ h2, h3 {
   font-weight: lighter;
 }
 body {
-  margin: 2em;
+  padding: .5rem;
+  max-width: 1000px;
+  margin: auto;
 }
-body, input[type="text"], button {
+@media (min-width: 600px) {
+  body {
+    padding: 2rem;
+  }
+}
+body, input[type="text"] {
   color: #333;
   font-family: Cambria, Georgia, serif;
 }
@@ -41,6 +48,11 @@ button:disabled {
   color: #aaa;
   cursor: auto;
 }
+
+hr {
+  margin: 1.5rem 0;
+}
+
 
 /* everywhere else */
 * {
